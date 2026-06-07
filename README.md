@@ -34,6 +34,7 @@ Telco Customer Churn Dataset
 - Gender has minimal impact on churn behavior.
 
 ## Dashboard Preview
+![Customer Churn Dashboard](powerbi_dashboard.png)
 
 (Add your Power BI dashboard screenshot here after uploading it to GitHub)
 
